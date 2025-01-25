@@ -2,7 +2,7 @@ package com.file.streamstypes;
 
 import java.io.*;
 
-public class ByteStreams {
+public class ByteStreams_file_class {
 
 	public static void main(String[] args) throws IOException {
 		File f = new File("C:\\Users\\pavan\\NNW\\king.txt");
