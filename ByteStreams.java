@@ -19,18 +19,6 @@ public class ByteStreams {
 		System.out.println(f2.exists());
 		f2.createNewFile();
 		System.out.println(f2.exists());
-		
-		
-//		String Str = "https://tcsglobal.udemy.com/";
-//		FileInputStream fIN = new FileInputStream("C:\\\\Users\\\\pavan\\\\NNW\\\\Summer.txt");
-//		int count = fIN.available();
-//		byte[] b= new byte[count];
-//		String S = b.toString();
-//		System.out.println(count);
-//		String[] S1 = fIN;
-//		FileOutputStream Foutv = new FileOutputStream("C:\\Users\\pavan\\NNW\\Summer.txt", false);
-//		byte b[] = Str.getBytes();
-//		Foutv.write(b);
 		System.out.println("Executed");
 		
 	}
